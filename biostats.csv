@@ -1,0 +1,174 @@
+Gender,What school are you in?,School Year?,How would you rate your overall stress in life?,How any hours of sleep do you get a night on average?,How many hours do you spend on homework in an average week?,Are you in a fraternity/sorority?,Are you in a romantic relationship?,Are you a student athlete?,Are you affiliated with a club?,"If yes, do you hold a leadership position in this club?",How many credits are you taking this quarter?,What's your major?,Do you have a second major?,"Do you have minor(s)? If so, please list. If not, write N/A","Have you been employed in the last 6 months? If so, what full-time or part-time ?",What is your GPA? (If you're a freshman put 0)
+Female,School of Arts and Sciences,Senior,7,5-6 hours,6-9 hours,Yes,No,No,No,Not applicable,18,Natural Sciences,No,1,"Yes, full-time",0
+Female,School or Business,Senior,8,7-8 hours,15-20 hours,No,No,No,No,No,19,Finance,No,1,"Yes, part-time",3.5
+Female,School or Business,Senior,6,7-8 hours,9-15 hours,Yes,No,Club sport ,Yes,Yes,19,Accounting,No,1,"Yes, part-time",3.48
+Female,School of Arts and Sciences,Freshman,7,7-8 hours,9-15 hours,Yes,No,No,Yes,Yes,18,Social Science,Social Science,0,"Yes, part-time",3.2
+Female,School of Arts and Sciences,Sophomore,9,6-7 hours,6-9 hours,Yes,No,No,Yes,Yes,12,Social Science,No,1,"Yes, full-time",3.68
+Female,School of Arts and Sciences,Senior,9,6-7 hours,15-20 hours,Yes,Yes,No,Yes,No,15,Social Science,Social Science,2,"Yes, part-time",3.6
+Female,School of Arts and Sciences,Senior,5,6-7 hours,3-6 hours,Yes,Yes,No,Yes,No,20,Social Science,No,1,"Yes, part-time",3.4
+Female,School of Arts and Sciences,Sophomore,7,6-7 hours,15-20 hours,Yes,No,No,Yes,No,18,Social Science,No,1,"Yes, part-time",3.5
+Female,School of Arts and Sciences,Senior,7,7-8 hours,15-20 hours,Yes,No,D1,Yes,Yes,20,Social Science,Economics,1,"Yes, full-time",3.95
+Female,School of Engineering,Junior,9,5-6 hours,20-30 hours,Yes,Yes,No,No,Not applicable,20,Bioengineering,No,1,"Yes, part-time",3.9
+Female,School of Arts and Sciences,Junior,8,6-7 hours,9-15 hours,Yes,Yes,Club sport ,Yes,No,20,Natural Sciences,No,2,"Yes, part-time",3.3
+Female,School of Arts and Sciences,Senior,7,6-7 hours,9-15 hours,Yes,No,D1,Yes,Yes,12,Natural Sciences,No,1,"Yes, part-time",3.23
+Female,School of Arts and Sciences,Senior,9,6-7 hours,30+ hours,Yes,No,No,Yes,Yes,20,Social Science,No,2,"Yes, part-time",3.4
+Female,School of Arts and Sciences,Sophomore,6,6-7 hours,20-30 hours,Yes,Yes,No,Yes,No,16,Undeclared,No,0,"Yes, part-time",3.4
+Female,School of Arts and Sciences,Senior,7,5-6 hours,9-15 hours,Yes,No,No,Yes,Yes,19,Social Science,No,2,"Yes, part-time",3.6
+Female,School of Arts and Sciences,Sophomore,5,8+ hours,3-6 hours,Yes,"""Its complicated""",No,No,Not applicable,16,Natural Sciences,No,0,"Yes, full-time",2.3
+Female,School of Arts and Sciences,Junior,6,7-8 hours,3-6 hours,Yes,No,No,No,Not applicable,18,Social Science,No,0,"Yes, part-time",3.8
+Female,School of Arts and Sciences,Sophomore,10,6-7 hours,20-30 hours,Yes,No,No,No,No,17,Social Science,No,1,"Yes, part-time",3.6
+Male,School or Business,Junior,6,7-8 hours,20-30 hours,Yes,No,No,No,No,19,Finance,No,0,"Yes, full-time",3
+Female,School of Arts and Sciences,Sophomore,4,6-7 hours,3-6 hours,Yes,No,No,Yes,No,17,Social Science,No,1,"Yes, part-time",3.5
+Female,School or Business,Senior,8,7-8 hours,3-6 hours,Yes,Yes,No,Yes,No,15,Economics,No,2,"Yes, full-time",3.6
+Female,School or Business,Senior,6,7-8 hours,3-6 hours,Yes,No,No,Yes,Yes,20,Finance,No,1,"Yes, part-time",3.96
+Female,School of Arts and Sciences,Senior,6,6-7 hours,9-15 hours,Yes,Yes,No,Yes,Yes,15,Social Science,No,2,"Yes, part-time",3.5
+Female,School or Business,Sophomore,7,6-7 hours,6-9 hours,Yes,No,No,Yes,No,16,Undeclared ,No,0,"Yes, part-time",3.2
+Female,School of Arts and Sciences,Senior,7,7-8 hours,6-9 hours,Yes,No,No,Yes,No,17,Natural Sciences,No,1,"Yes, part-time",3.68
+Male,School of Arts and Sciences,Senior,6,7-8 hours,9-15 hours,No,Yes,No,Yes,No,16,Natural Sciences,Social Science,0,"Yes, part-time",3.9
+Male,School of Arts and Sciences,Junior,7,6-7 hours,15-20 hours,Yes,No,D1,Yes,Yes,19,Social Science,No,2,"Yes, part-time",3.32
+Male,School of Arts and Sciences,Junior,8,5-6 hours,20-30 hours,Yes,No,No,Yes,No,21,Natural Sciences,Social Science,0,"No, I haven't had a job in the last 6 months",3.46
+Female,School of Arts and Sciences,Senior,7,6-7 hours,6-9 hours,Yes,No,No,Yes,No,19,Natural Sciences,No,2,"Yes, part-time",3.5
+Male,School of Arts and Sciences,Junior,9,4-5 hours,30+ hours,No,No,No,Yes,Yes,20,Natural Sciences,No,0,"Yes, part-time",3.75
+Female,School of Arts and Sciences,Senior,9,5-6 hours,15-20 hours,No,No,No,No,Yes,20,Social Science,No,1,"Yes, part-time",3.9
+Male,School of Engineering,Senior,8,7-8 hours,15-20 hours,No,Yes,No,Yes,Yes,19,Bioengineering,No,0,"Yes, full-time",3.4
+Male,School of Arts and Sciences,Senior,8,7-8 hours,30+ hours,No,Yes,No,Yes,Yes,21,Economics,No,1,"Yes, full-time",4
+Female,School or Business,Junior,7,6-7 hours,20-30 hours,Yes,No,No,Yes,Yes,14,Marketing,No,1,"Yes, full-time",3.7
+Female,School of Arts and Sciences,Sophomore,8,6-7 hours,15-20 hours,Yes,No,No,Yes,Yes,14,Natural Sciences,Social Science,1,"Yes, part-time",3.18
+Female,School of Arts and Sciences,Senior,9,5-6 hours,15-20 hours,No,Yes,No,No,No,15,Economics,No,1,"Yes, part-time",3.968
+Male,School of Engineering,Senior,8,7-8 hours,15-20 hours,No,Yes,No,Yes,Yes,19,Bioengineering,No,0,"Yes, full-time",3
+Male,School of Arts and Sciences,Junior,6,5-6 hours,9-15 hours,No,"""Its complicated""",No,Yes,Yes,20,Social Science,Economics,2,"Yes, full-time",3.5
+Female,School of Arts and Sciences,Senior,9,5-6 hours,9-15 hours,No,No,No,Yes,No,20,Natural Sciences,Natural Sciences,1,"Yes, part-time",3.5
+Female,School of Arts and Sciences,Senior,6,6-7 hours,9-15 hours,No,No,D1,No,Not applicable,19,Natural Sciences,No,1,"No, I haven't had a job in the last 6 months",3.83
+Male,School of Engineering,Junior,2,7-8 hours,3-6 hours,Yes,Yes,No,Yes,No,18,Computer Engineering ,No,0,"Yes, part-time",3.23
+Male,School of Arts and Sciences,Junior,5,6-7 hours,15-20 hours,Yes,No,No,Yes,No,17,Natural Sciences,No,1,"Yes, full-time",2.8
+Male,School of Arts and Sciences,Senior,5,6-7 hours,9-15 hours,No,Yes,No,Yes,Yes,20,Humanities,No,1,"No, I haven't had a job in the last 6 months",3.91
+Female,School of Arts and Sciences,Junior,7,4-5 hours,15-20 hours,No,No,No,No,No,21,Natural Sciences,No,0,"Yes, part-time",3.38
+Female,School of Engineering,Junior,5,4-5 hours,6-9 hours,No,"""Its complicated""",No,Yes,No,23,Bioengineering,No,0,"Yes, part-time",3.1
+Female,School of Arts and Sciences,Junior,7,4-5 hours,20-30 hours,Yes,Yes,No,Yes,Yes,17,Natural Sciences,No,1,"Yes, part-time",3.78
+Female,School of Arts and Sciences,Senior,9,6-7 hours,15-20 hours,Yes,No,No,Yes,Yes,15,Natural Sciences,No,2,"Yes, full-time",3.63
+Male,School of Arts and Sciences,Freshman,2,6-7 hours,0-3 hours,Yes,Yes,No,No,Not applicable,15,Economics,No,0,"Yes, full-time",3.2
+Female,School or Business,Sophomore,8,5-6 hours,9-15 hours,Yes,Yes,No,Yes,Yes,16,Finance,No,1,"Yes, full-time",3.5
+Female,School or Business,Senior,10,3-4 hours,30+ hours,Yes,Yes,No,Yes,No,28,Accounting & Information Systems,No,0,"Yes, part-time",3.9
+Female,School or Business,Junior,5,7-8 hours,15-20 hours,Yes,No,No,Yes,No,14,Finance,No,1,"Yes, part-time",3.5
+Female,School of Arts and Sciences,Senior,7,5-6 hours,15-20 hours,Yes,Yes,No,Yes,No,21,Natural Sciences,No,1,"Yes, part-time",3.4
+Female,School of Arts and Sciences,Junior,7,6-7 hours,9-15 hours,No,No,No,Yes,Yes,20,Natural Sciences,No,0,"Yes, part-time",3.4
+Female,School of Arts and Sciences,Junior,5,7-8 hours,6-9 hours,Yes,No,No,No,No,15,Communications,No,1,"Yes, part-time",3.6
+Male,School of Arts and Sciences,Junior,5,7-8 hours,6-9 hours,No,No,No,Yes,No,16,Natural Sciences,No,1,"Yes, part-time",3.6
+Male,School of Engineering,Sophomore,7,6-7 hours,20-30 hours,No,No,No,Yes,No,19,Computer Engineering ,No,0,"Yes, part-time",3.4
+Male,School of Engineering,Junior,7,6-7 hours,15-20 hours,No,No,No,Yes,No,18,Mechanical Engineering,No,0,"Yes, full-time",2.5
+Female,School or Business,Sophomore,4,5-6 hours,30+ hours,Yes,Yes,No,Yes,No,16,Finance,No,1,"Yes, full-time",3.9
+Male,School of Arts and Sciences,Junior,7,7-8 hours,15-20 hours,No,No,No,Yes,Yes,17,Social Science,No,0,"No, I haven't had a job in the last 6 months",3.2
+Male,School of Arts and Sciences,Senior,8,6-7 hours,9-15 hours,No,Yes,No,No,No,12,Natural Sciences,Natural Sciences,0,"Yes, part-time",3.4
+Female,School or Business,Junior,7,5-6 hours,9-15 hours,No,No,No,No,No,20,Finance,No,1,"Yes, part-time",3.4
+Female,School or Business,Senior,7,6-7 hours,20-30 hours,Yes,No,No,Yes,Yes,19,Marketing,No,1,"Yes, full-time",3.35
+Female,School of Engineering,Sophomore,8,7-8 hours,9-15 hours,Yes,No,No,No,Not applicable,18,Computer Engineering,No,1,"Yes, part-time",2.6
+Female,School of Arts and Sciences,Sophomore,6,6-7 hours,9-15 hours,Yes,Yes,No,No,Not applicable,18,Social Science,No,1,"Yes, part-time",3.17
+Male,School of Arts and Sciences,Senior,6,4-5 hours,6-9 hours,No,No,No,No,No,21,Natural Sciences,Natural Sciences,0,"Yes, full-time",3.96
+Male,School or Business,Junior,5,8+ hours,20-30 hours,No,No,Club sport ,Yes,Yes,22,Accounting,No,0,"Yes, part-time",3.75
+Male,School of Engineering,Junior,2,8+ hours,0-3 hours,No,No,Club sport ,Yes,Yes,20,Mechanical Engineering,No,1,"Yes, full-time",3.46
+Male,School of Engineering,Sophomore,8,7-8 hours,15-20 hours,No,No,D1,Yes,No,18,Computer Engineering,No,0,"Yes, part-time",3.5
+Male,School of Engineering,Sophomore,8,5-6 hours,20-30 hours,No,No,Club sport ,Yes,Yes,18,Mechanical Engineering,No,0,"No, I haven't had a job in the last 6 months",3.3
+Male,School of Arts and Sciences,Senior,3,7-8 hours,3-6 hours,No,Yes,Club sport ,Yes,Yes,14,Economics ,No,1,"Yes, part-time",2.7
+Male,School or Business,Junior,5,8+ hours,6-9 hours,No,"""Its complicated""",Club sport ,No,Not applicable,19,Finance,No,1,"Yes, part-time",3.4
+Male,School or Business,Senior,3,8+ hours,3-6 hours,No,Yes,Club sport ,Yes,Yes,15,Finance,No,1,"Yes, full-time",3.5
+Male,School of Engineering,Senior,7,5-6 hours,6-9 hours,No,Yes,Club sport ,Yes,No,15,Bioengineering,No,0,"Yes, full-time",3.45
+Male,School of Arts and Sciences,Senior,3,7-8 hours,3-6 hours,No,No,No,No,Not applicable,21,Economic,Social Science,0,"Yes, full-time",0
+Male,School of Arts and Sciences,Senior,9,5-6 hours,9-15 hours,No,Yes,Club sport ,Yes,Yes,20,Natural Sciences,No,1,"Yes, part-time",3.5
+Male,School of Arts and Sciences,Junior,5,6-7 hours,15-20 hours,No,Yes,No,Yes,Yes,19,Natural Sciences,No,0,"Yes, part-time",3.8
+Female,School or Business,Senior,8,5-6 hours,6-9 hours,Yes,No,No,Yes,Yes,17,Accounting,No,0,"Yes, part-time",3.4
+Male,School of Engineering,Senior,6,3-4 hours,9-15 hours,No,No,Club sport ,Yes,Yes,21,Computer Engineering,No,1,"Yes, full-time",3.2
+Female,School of Arts and Sciences,Junior,7,6-7 hours,30+ hours,Yes,Yes,No,Yes,Yes,19,Natural Sciences,Humanities,1,"Yes, full-time",3.6
+Female,School or Business,Senior,7,7-8 hours,6-9 hours,Yes,No,No,Yes,Yes,16,Business Management,No,1,"Yes, full-time",3.65
+Female,School of Arts and Sciences,Junior,8,8+ hours,9-15 hours,No,No,No,No,No,15,Humanities,No,1,"Yes, full-time",3.2
+Male,School or Business,Senior,5,7-8 hours,0-3 hours,No,Yes,No,No,Not applicable,17,Management,No,0,"Yes, full-time",3.7
+Female,School of Arts and Sciences,Senior,7,6-7 hours,15-20 hours,No,No,No,No,No,19,Natural Sciences,Humanities,0,"Yes, part-time",3.3
+Female,School or Business,Junior,8,5-6 hours,15-20 hours,Yes,Yes,No,Yes,Yes,15,Electrical Engineering,No,0,"No, I haven't had a job in the last 6 months",3.06
+Female,School of Arts and Sciences,Junior,7,6-7 hours,6-9 hours,No,No,No,Yes,Yes,15,Natural Sciences,No,0,"Yes, part-time",3.6
+Female,School of Arts and Sciences,Senior,9,6-7 hours,20-30 hours,No,Yes,No,Yes,Yes,19,Natural Sciences,Humanities,1,"Yes, part-time",3.95
+Female,School of Arts and Sciences,Senior,8,5-6 hours,15-20 hours,Yes,Yes,No,Yes,No,19,Natural Sciences,No,1,"Yes, part-time",3
+Male,School or Business,Freshman,3,4-5 hours,3-6 hours,No,No,No,No,Not applicable,16,Undeclared,No,0,"No, I haven't had a job in the last 6 months",3.5
+Male,School of Engineering,Freshman,4,4-5 hours,0-3 hours,No,No,No,Yes,No,18,Mechanical Engineering,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School or Business,Freshman,3,4-5 hours,3-6 hours,No,No,No,No,Not applicable,16,Business,No,0,"No, I haven't had a job in the last 6 months",3.5
+Female,School or Business,Freshman,6,6-7 hours,6-9 hours,No,No,No,Yes,No,16,Undeclared ,No,0,"No, I haven't had a job in the last 6 months",3
+Female,School of Arts and Sciences,Senior,7,6-7 hours,15-20 hours,No,Yes,No,Yes,Yes,16,Natural Sciences,No,0,"No, I haven't had a job in the last 6 months",3.96
+Male,School of Arts and Sciences,Junior,7,5-6 hours,9-15 hours,No,No,No,Yes,Yes,16,Economics,No,0,"Yes, part-time",0
+Male,School of Engineering,Senior,7,7-8 hours,6-9 hours,No,No,No,Yes,No,16,Computer Engineering,No,0,"No, I haven't had a job in the last 6 months",3
+Female,School of Arts and Sciences,Freshman,8,6-7 hours,15-20 hours,Yes,No,No,Yes,No,16,Undeclared,No,0,"Yes, part-time",0
+Male,School of Engineering,Senior,7,7-8 hours,6-9 hours,No,No,No,Yes,No,16,Computer Engineering,No,0,"No, I haven't had a job in the last 6 months",3
+Male,School or Business,Freshman,7,5-6 hours,15-20 hours,No,Yes,No,Yes,No,16,Undeclared,No,0,"Yes, part-time",0
+Female,School of Arts and Sciences,Freshman,6,6-7 hours,6-9 hours,No,Yes,No,Yes,No,16,Natural Sciences,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School of Arts and Sciences,Sophomore,7,6-7 hours,9-15 hours,Yes,No,D1,Yes,No,19,Economics,No,1,"Yes, part-time",3.8
+Male,School of Engineering,Senior,3,7-8 hours,6-9 hours,No,No,No,Yes,Yes,21,Bioengineering,No,2,"Yes, full-time",3.6
+Male,School or Business,Freshman,7,6-7 hours,15-20 hours,No,No,No,Yes,No,16,Undeclared,No,0,"Yes, part-time",0
+Male,School of Arts and Sciences,Sophomore,7,6-7 hours,6-9 hours,Yes,No,No,Yes,No,18,Natural Sciences,Natural Sciences,0,"Yes, full-time",3.75
+Male,School of Arts and Sciences,Freshman,7,5-6 hours,15-20 hours,No,No,No,No,No,18,Undeclared,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School of Arts and Sciences,Freshman,6,6-7 hours,9-15 hours,No,No,No,Yes,No,17,Undeclared,No,0,"No, I haven't had a job in the last 6 months",0
+Female,School of Arts and Sciences,Freshman,7,6-7 hours,6-9 hours,Yes,No,No,Yes,No,16,Natural Sciences,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School of Arts and Sciences,Freshman,3,5-6 hours,3-6 hours,No,Yes,No,Yes,No,17,Natural Sciences,No,0,"Yes, part-time",0
+Female,School of Arts and Sciences,Sophomore,7,5-6 hours,15-20 hours,No,No,D1,Yes,No,13,Natural Sciences,No,0,"No, I haven't had a job in the last 6 months",3.2
+Male,School or Business,Freshman,4,8+ hours,3-6 hours,No,No,No,Yes,No,18,Undeclared,No,0,"No, I haven't had a job in the last 6 months",0
+Female,School or Business,Freshman,8,7-8 hours,6-9 hours,Yes,No,No,Yes,No,16,Undeclared,No,0,"Yes, part-time",0
+Male,School of Engineering,Freshman,1,7-8 hours,3-6 hours,No,No,D1,Yes,No,19,Mechanical Engineering,No,0,"Yes, part-time",0
+Male,School of Arts and Sciences,Freshman,8,6-7 hours,6-9 hours,No,No,D1,No,No,12,Natural Sciences,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School or Business,Freshman,8,7-8 hours,6-9 hours,No,No,D1,No,Not applicable,16,Undeclared,No,0,"Yes, part-time",0
+Female,School or Business,Freshman,9,6-7 hours,15-20 hours,Yes,"""Its complicated""",No,Yes,No,16,Undeclared ,No,0,"Yes, part-time",0
+Male,School of Arts and Sciences,Freshman,5,7-8 hours,15-20 hours,No,No,D1,No,Not applicable,16,Economics,No,2,"No, I haven't had a job in the last 6 months",0
+Male,School of Arts and Sciences,Freshman,5,5-6 hours,6-9 hours,No,No,No,No,Not applicable,19,Natural Sciences,No,0,"Yes, part-time",0
+Male,School of Arts and Sciences,Freshman,6,6-7 hours,6-9 hours,No,No,Club sport ,Yes,No,19,Natural Sciences,No,0,"Yes, part-time",4
+Male,School or Business,Sophomore,1,5-6 hours,3-6 hours,No,No,No,No,No,16,Finance,No,0,"Yes, part-time",3.3
+Male,School of Engineering,Freshman,6,6-7 hours,3-6 hours,No,No,No,Yes,No,18,Computer Engineering,No,0,"Yes, part-time",0
+Female,School or Business,Sophomore,7,3-4 hours,15-20 hours,Yes,Yes,No,Yes,No,16,Management,Natural Sciences,0,"No, I haven't had a job in the last 6 months",3.5
+Female,School of Arts and Sciences,Junior,5,7-8 hours,6-9 hours,No,Yes,Club sport,Yes,Yes,18,Economics,No,0,"Yes, part-time",3.1
+Male,School of Engineering,Senior,2,7-8 hours,9-15 hours,Yes,Yes,No,Yes,No,16,Bioengineering,No,1,"Yes, full-time",3.5
+Male,School or Business,Freshman,5,6-7 hours,9-15 hours,No,No,No,Yes,Yes,16,Finance,No,0,"Yes, full-time",0
+Male,School or Business,Freshman,6,5-6 hours,6-9 hours,No,No,No,Yes,No,16,Undeclared ,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School or Business,Freshman,6,5-6 hours,6-9 hours,No,No,No,No,No,13,Business Marketing,No,0,"Yes, full-time",0
+Male,School or Business,Freshman,3,6-7 hours,6-9 hours,No,No,No,No,Not applicable,16,Finance,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School or Business,Sophomore,6,7-8 hours,6-9 hours,No,Yes,No,No,Not applicable,12,Finance,No,1,"No, I haven't had a job in the last 6 months",2.9
+Male,School or Business,Sophomore,8,5-6 hours,9-15 hours,Yes,Yes,No,Yes,Yes,14,Marketing,No,1,"Yes, part-time",3.51
+Male,School or Business,Freshman,9,6-7 hours,6-9 hours,Yes,No,No,No,No,16,Undeclared ,No,0,"No, I haven't had a job in the last 6 months",0
+Female,School of Arts and Sciences,Sophomore,9,5-6 hours,6-9 hours,Yes,No,No,No,No,19,Undeclared,No,0,"Yes, part-time",3.5
+Male,School or Business,Freshman,4,8+ hours,3-6 hours,Yes,Yes,No,Yes,Yes,16,Finance,No,0,"Yes, part-time",0
+Male,School or Business,Sophomore,5,7-8 hours,6-9 hours,No,Yes,Club sport,Yes,Yes,12,Finance,No,1,"Yes, part-time",3.5
+Male,School of Engineering,Junior,7,6-7 hours,9-15 hours,No,Yes,No,No,Not applicable,19,Mechanical Engineering,No,1,"No, I haven't had a job in the last 6 months",3.12
+Female,School or Business,Junior,8,4-5 hours,15-20 hours,No,"""Its complicated""",No,No,No,25,Marketing,Humanities,0,"Yes, part-time",3.5
+Male,School or Business,Grad Student,8,7-8 hours,9-15 hours,No,No,No,No,No,10,Information Systems,No,0,"Yes, full-time",3
+Male,School of Arts and Sciences,Senior,4,7-8 hours,6-9 hours,No,No,No,No,No,19,Natural Sciences,No,1,"Yes, part-time",3.3
+Male,School of Engineering,Sophomore,6,4-5 hours,15-20 hours,No,"""Its complicated""",Club sport,Yes,Yes,2,Mechanical Engineering,No,1,"Yes, part-time",2.9
+Male,School of Arts and Sciences,Junior,5,6-7 hours,9-15 hours,No,Yes,No,Yes,Yes,19,Natural Sciences,No,0,"Yes, part-time",3.8
+Female,School of Arts and Sciences,Sophomore,7,7-8 hours,9-15 hours,No,"""Its complicated""",No,Yes,No,17,Natural Sciences,No,0,"Yes, part-time",0
+Female,School of Arts and Sciences,Grad Student,5,6-7 hours,6-9 hours,No,No,No,No,Not applicable,9,Social Science,No,0,"Yes, part-time",3.9
+Male,School of Arts and Sciences,Senior,7,5-6 hours,9-15 hours,No,No,No,Yes,No,16,Social Science,No,1,"Yes, full-time",3.35
+Male,School of Engineering,Grad Student,5,4-5 hours,9-15 hours,No,No,No,No,No,8,Natural Sciences,No,0,"Yes, part-time",0
+Male,School of Engineering,Grad Student,7,7-8 hours,6-9 hours,No,No,No,No,Not applicable,8,Natural Sciences,No,0,"No, I haven't had a job in the last 6 months",0
+Male,School of Engineering,Grad Student,7,6-7 hours,6-9 hours,No,No,No,No,Not applicable,8,Natural Sciences,No,0,"No, I haven't had a job in the last 6 months",0
+Female,School of Arts and Sciences,Senior,7,7-8 hours,6-9 hours,Yes,Yes,No,Yes,Yes,15,Social Science,No,1,"Yes, part-time",3.2
+Female,School of Arts and Sciences,Freshman,6,7-8 hours,9-15 hours,No,No,No,No,Not applicable,19,Natural Sciences,No,0,"Yes, part-time",0
+Female,School of Arts and Sciences,Junior,9,4-5 hours,15-20 hours,Yes,No,No,No,Not applicable,18,Social Science,Social Science,0,"Yes, part-time",2.9
+Female,School of Arts and Sciences,Sophomore,7,4-5 hours,20-30 hours,Yes,"""Its complicated""",No,No,Not applicable,17,Social Science,Social Science,0,"Yes, part-time",3.4
+Male,School of Arts and Sciences,Junior,8,5-6 hours,9-15 hours,Yes,No,No,Yes,No,16,Economics,Social Science,0,"Yes, part-time",3.5
+Female,School or Business,Freshman,6,7-8 hours,3-6 hours,Yes,Yes,Club sport,Yes,Yes,16,Undeclared ,No,0,"Yes, part-time",0
+Male,School or Business,Sophomore,7,5-6 hours,9-15 hours,Yes,Yes,No,Yes,Yes,16,Finance,No,0,"Yes, part-time",3.1
+Male,School or Business,Freshman,3,7-8 hours,3-6 hours,No,No,Club sport,Yes,No,16,Finance,No,1,"No, I haven't had a job in the last 6 months",0
+Male,School of Engineering,Grad Student,7,6-7 hours,3-6 hours,No,Yes,No,No,No,10,Natural Sciences,No,0,"Yes, full-time",3.7
+Female,School or Business,Grad Student,8,6-7 hours,6-9 hours,No,Yes,No,No,No,9,Information Systems,No,0,"Yes, part-time",0
+Female,School of Arts and Sciences,Junior,10,5-6 hours,9-15 hours,No,No,No,Yes,Yes,18,Natural Sciences,No,1,"Yes, full-time",2.67
+Male,School of Arts and Sciences,Junior,6,6-7 hours,6-9 hours,No,No,No,No,No,26,Natural Sciences,Social Science,2,"Yes, part-time",3.494
+Male,School of Engineering,Junior,6,7-8 hours,15-20 hours,Yes,No,No,Yes,No,19,Bioengineering,No,1,"No, I haven't had a job in the last 6 months",2.98
+Female,School or Business,Sophomore,7,6-7 hours,9-15 hours,Yes,Yes,No,Yes,Yes,18,Finance,No,0,"Yes, part-time",3.8
+Female,School of Arts and Sciences,Senior,3,7-8 hours,0-3 hours,No,No,No,No,No,20,Natural Sciences,Humanities,0,"Yes, part-time",3.3
+Female,School of Arts and Sciences,Senior,6,7-8 hours,6-9 hours,Yes,Yes,No,Yes,No,20,Social Science,No,1,"Yes, part-time",3.4
+Female,School or Business,Sophomore,6,7-8 hours,15-20 hours,Yes,No,No,Yes,No,16,Finance,No,1,"Yes, part-time",3.84
+Female,School of Arts and Sciences,Senior,6,7-8 hours,6-9 hours,Yes,No,No,No,No,19,Natural Sciences,No,0,"Yes, part-time",3.7
+Female,School of Engineering,Senior,7,6-7 hours,9-15 hours,No,No,Club sport,No,Not applicable,18,Bioengineering,No,0,"Yes, full-time",0
+Female,School of Arts and Sciences,Senior,1,5-6 hours,3-6 hours,No,No,No,No,Not applicable,15,Social Science,Humanities,0,"Yes, part-time",3.6
+Female,School or Business,Sophomore,9,6-7 hours,3-6 hours,Yes,No,No,Yes,Yes,16,Economics,No,1,"Yes, part-time",3.67
+Female,School of Engineering,Junior,8,5-6 hours,3-6 hours,Yes,No,No,Yes,Yes,18,Mechanical Engineering,No,0,"Yes, part-time",3.4
+Female,School of Engineering,Junior,8,5-6 hours,9-15 hours,Yes,Yes,No,Yes,Yes,16,Electrical Engineering,No,0,"No, I haven't had a job in the last 6 months",3.1
+Female,School or Business,Sophomore,7,6-7 hours,6-9 hours,Yes,No,No,Yes,No,16,Undeclared,No,0,"Yes, part-time",3.2
+Female,School of Arts and Sciences,Junior,5,7-8 hours,6-9 hours,Yes,No,No,No,Not applicable,20,Natural Sciences,No,1,"Yes, part-time",3
+Female,School or Business,Senior,9,5-6 hours,15-20 hours,Yes,Yes,No,No,No,15,Management,No,1,"Yes, full-time",3.416
+Female,School of Engineering,Sophomore,10,5-6 hours,20-30 hours,Yes,Yes,No,No,No,18,Mechanical Engineering,No,0,"Yes, part-time",3.1
+Female,School of Arts and Sciences,Freshman,8,5-6 hours,3-6 hours,No,No,Club sport,Yes,No,20,Natural Sciences,No,1,"Yes, part-time",3.3
+Male,School of Engineering,Junior,5,6-7 hours,9-15 hours,No,Yes,No,Yes,Yes,19,Mechanical Engineering,No,1,"Yes, full-time",3.4
+Male,School or Business,Senior,6,7-8 hours,9-15 hours,No,Yes,Club sport,Yes,Yes,19,Finance,No,1,"Yes, full-time",3.6
