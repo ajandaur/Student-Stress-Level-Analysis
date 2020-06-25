@@ -1,4 +1,4 @@
-# BIOL160-Project
+# Biostatistics Final Project
 **Analysis/Graphs was done in Rstudio
 
 The variables included in this study were a combination of possible stressors from academics, extracurriculars, sleeping habits, and relationships. The specific variables studied as possible sources of stress at SCU include the school that one is in (Arts and Sciences, Business, or Engineering), school year, average hours of sleep, average hours spent on homework in a week, participation in a fraternity or sorority, relationship status, participation in athletics, affiliation in a club, leadership position in a club, current amount of units taken, major, number of majors and minors, jobs, GPA, and gender. 
