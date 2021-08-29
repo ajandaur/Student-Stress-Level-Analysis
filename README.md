@@ -1,5 +1,6 @@
-# Biostatistics Final Project
-**Analysis/Graphs was done in Rstudio
+# Student Stress Level Analysis
+**Final write-up: https://docs.google.com/document/d/1cXymwsjiRvKn7w5uEhCQ0UkuRKvLiqUhmG52SGn9dcs/edit?usp=sharing**
+
 
 ## Purpose:
 The purpose of this study was to find major sources of stress among students at Santa Clara University. College students are particularly prone to stress due to rigorous classes, participation in clubs, leadership positions, varying academic schools and majors, affiliation with a fraternity or sorority, and maintaining relationships.
